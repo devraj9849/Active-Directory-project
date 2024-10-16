@@ -4,7 +4,7 @@ Active Directory (AD) is a database and set of services that connect users with 
 
 ![image](https://github.com/user-attachments/assets/6e0ddebe-b40b-43c0-98fd-f667626a8c97)
 
-<b>Step by Step process for installing Active Directory</b>
+<h1>Step by Step process for installing Active Directory</h1>
 
 First clicking on add roles and Features wizard
 
