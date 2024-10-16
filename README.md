@@ -66,7 +66,7 @@ Event ID: 4727: Creation of security enabled group
 
 ![image](https://github.com/user-attachments/assets/69cfb6a9-3c68-49ef-b55e-bf8d23db7431)
 
-So if we have Splunk or any SIEM installed, then we can see all the user that we created, or deleted or any other things that are happening in the system, we can see there or also in Event Viewer.
+So if we have Splunk or any SIEM installed, then we can see all the user that we created, or deleted or any other things that are happening in the system, we can see there or also in Event Viewer. And also if we want to change password or reset the password of the user then we can immediately do it from the active directory we just created as it is now like a central department where all the details about the user, their permissions and roles are managed.
 
 
 
