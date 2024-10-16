@@ -4,7 +4,7 @@ Active Directory (AD) is a database and set of services that connect users with 
 
 ![image](https://github.com/user-attachments/assets/6e0ddebe-b40b-43c0-98fd-f667626a8c97)
 
-Step by Step process for installing Active Directory
+<b>Step by Step process for installing Active Directory</b>
 
 First clicking on add roles and Features wizard
 
@@ -66,7 +66,7 @@ Event ID: 4727: Creation of security enabled group
 
 ![image](https://github.com/user-attachments/assets/69cfb6a9-3c68-49ef-b55e-bf8d23db7431)
 
-
+So if we have Splunk or any SIEM installed, then we can see all the user that we created, or deleted or any other things that are happening in the system, we can see there or also in Event Viewer.
 
 
 
